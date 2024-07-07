@@ -2,7 +2,7 @@
 This repository contains a number of Machine Learning projects done by me as a part of Machine Learning (ES335) Course
 
 
-### Image Reconstruction Using Random Fourier Features (RFF)
+## Image Reconstruction Using Random Fourier Features (RFF)
 **a.** Superresolution
 * Performed superresolution on the cropped image from the notebook, enhancing its resolution by a factor of 2 using Random Fourier Features (RFF).
 * Displayed a qualitative comparison of the original and reconstructed images.
@@ -18,3 +18,8 @@ This repository contains a number of Machine Learning projects done by me as a p
 * Randomly removed portions of the data, trained the model on the remaining data, and predicted on the entire image.
 * Displayed the reconstructed images for each missing data percentage and computed the RMSE and Peak SNR metrics for each case.
 * Concluded the effectiveness of RFF in image reconstruction with different levels of missing data.
+
+
+## Comparing Decision Tree, Random Forest, and Linear Regression on UCI-HAR dataset
+
+* This project compares the performance of Decision Tree, Random Forest, and Linear Regression models on the UCI Human Activity Recognition (HAR) dataset. It involves extracting features using the TSFEL library, evaluating the models' effectiveness, and analyzing feature importance. The project aims to determine the suitability of linear regression for classification tasks and identify the top features prioritized by each model.
