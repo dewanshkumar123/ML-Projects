@@ -59,3 +59,8 @@ For this assignment, publicly available dataset called UCI-HAR was used. The dat
 ## Comparing Decision Tree, Random Forest, and Linear Regression on UCI-HAR dataset
 
 * This project compares the performance of Decision Tree, Random Forest, and Linear Regression models on the UCI Human Activity Recognition (HAR) dataset. It involves extracting features using the TSFEL library, evaluating the models' effectiveness, and analyzing feature importance. The project aims to determine the suitability of linear regression for classification tasks and identify the top features prioritized by each model.
+
+
+## Contributors
+* Dewansh Kumar
+* Bhoumik Patidar
